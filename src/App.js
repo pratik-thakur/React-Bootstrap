@@ -30,7 +30,7 @@ function App() {
       </Form>
 
         <Card className="mb-3" style={{color:"#000"}}>
-          <Card.Img src="https://picsum.photos/400/200"/>
+          <Card.Img src="https://picsum.photos/1000/500"/>
           <Card.Body>
             <Card.Title>
               Card Example
